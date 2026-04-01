@@ -1,0 +1,4 @@
+EmpID,Name,Department,StartDate,EndDate,CurrentFlag
+101,Alice,HR,2026-01-28,,1
+102,Bruce,IT,2026-03-28,,1
+103,Wilson,Finance,2025-11-25,,1
